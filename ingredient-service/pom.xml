@@ -5,7 +5,7 @@
 
 	<groupId>sia5</groupId>
 	<artifactId>ingredient-service</artifactId>
-	<version>0.0.13-SNAPSHOT</version>
+	<version>0.0.14-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>ingredient-service</name>
@@ -59,6 +59,10 @@
 				spring-cloud-starter-netflix-eureka-client
 			</artifactId>
 		</dependency>
+		<dependency>
+			<groupId>org.springframework.cloud</groupId>
+			<artifactId>spring-cloud-starter-config</artifactId>
+		</dependency>
 	</dependencies>
 
 	<build>
@@ -69,7 +73,6 @@
 			</plugin>
 		</plugins>
 	</build>
-
 
 	<dependencyManagement>
 		<dependencies>
