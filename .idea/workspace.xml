@@ -2,7 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="903e4c96-76b6-4d94-b1f4-7a41fb1296dc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/hystrix-dashboard/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hystrix-dashboard/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hystrix-dashboard/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hystrix-dashboard/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hystrix-dashboard/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hystrix-dashboard/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hystrix-dashboard/src/main/java/tacos/hystrixdashboard/HystrixDashboardApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hystrix-dashboard/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hystrix-dashboard/src/test/java/tacos/hystrixdashboard/HystrixDashboardApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ingredient-client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ingredient-client/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ingredient-client/src/main/java/tacos/ingredientclient/IngredientClientApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/ingredient-client/src/main/java/tacos/ingredientclient/IngredientClientApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ingredient-client/src/main/java/tacos/ingredientclient/resttemplate/IngredientServiceClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/ingredient-client/src/main/java/tacos/ingredientclient/resttemplate/IngredientServiceClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ingredient-client/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ingredient-client/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ingredient-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ingredient-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ingredient-service/src/main/java/tacos/ingredients/IngredientServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/ingredient-service/src/main/java/tacos/ingredients/IngredientServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ingredient-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ingredient-service/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +54,11 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -69,6 +91,8 @@
       <workItem from="1567664277604" duration="159000" />
       <workItem from="1567687164557" duration="120000" />
       <workItem from="1567687407644" duration="4000" />
+      <workItem from="1568021301881" duration="83000" />
+      <workItem from="1568025364071" duration="45000" />
     </task>
     <task id="LOCAL-00001" summary="Microservices">
       <created>1567599191688</created>
@@ -84,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567687269005</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Refreshing configuration properties on the fly">
+      <created>1568021379389</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1568021379389</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +137,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Microservices" />
     <MESSAGE value="Configuration for microservices" />
-    <option name="LAST_COMMIT_MESSAGE" value="Configuration for microservices" />
+    <MESSAGE value="Refreshing configuration properties on the fly" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refreshing configuration properties on the fly" />
   </component>
 </project>
